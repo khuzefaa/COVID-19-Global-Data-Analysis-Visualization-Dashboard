@@ -1,0 +1,2 @@
+# COVID-19-Global-Data-Analysis-Visualization-Dashboard
+his comprehensive data science project provides an in-depth analysis of global COVID-19 pandemic data using Python and advanced data visualization techniques. The project leverages real-time data from Our World in Data to deliver actionable insights into pandemic trends, country-wise comparisons, vaccination progress, and epidemiological patterns.
